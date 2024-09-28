@@ -6,7 +6,7 @@ import math
 ### Ask the user for input
 min_range = int(input("Enter the minimum range: "))
 max_range = int(input("Enter the maximum range: "))
-
+ 
 ### Functions 
 #region: functions  
 def generate_random_bits(n):

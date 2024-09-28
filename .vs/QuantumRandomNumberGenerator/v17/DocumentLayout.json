@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProgramingProject\\python\\QuantumRandomNumberGenerator\\",
+  "WorkspaceRootPath": "D:\\ProgramingProject\\To Show\\Quantum\\Quantum_Random_Number_Generator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BF28976-32B1-409D-96DB-C47A6FFB4616}|QuantumRandomNumberGenerator.pyproj|D:\\ProgramingProject\\python\\QuantumRandomNumberGenerator\\QuantumRandomNumberGenerator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{3BF28976-32B1-409D-96DB-C47A6FFB4616}|QuantumRandomNumberGenerator.pyproj|D:\\ProgramingProject\\To Show\\Quantum\\Quantum_Random_Number_Generator\\QuantumRandomNumberGenerator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3BF28976-32B1-409D-96DB-C47A6FFB4616}|QuantumRandomNumberGenerator.pyproj|solutionrelative:QuantumRandomNumberGenerator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QuantumRandomNumberGenerator.py",
-              "DocumentMoniker": "D:\\ProgramingProject\\python\\QuantumRandomNumberGenerator\\QuantumRandomNumberGenerator.py",
+              "DocumentMoniker": "D:\\ProgramingProject\\To Show\\Quantum\\Quantum_Random_Number_Generator\\QuantumRandomNumberGenerator.py",
               "RelativeDocumentMoniker": "QuantumRandomNumberGenerator.py",
-              "ToolTip": "D:\\ProgramingProject\\python\\QuantumRandomNumberGenerator\\QuantumRandomNumberGenerator.py",
+              "ToolTip": "D:\\ProgramingProject\\To Show\\Quantum\\Quantum_Random_Number_Generator\\QuantumRandomNumberGenerator.py",
               "RelativeToolTip": "QuantumRandomNumberGenerator.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-09-27T15:50:22.037Z",
               "EditorCaption": ""
